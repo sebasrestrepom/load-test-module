@@ -7,7 +7,7 @@ This is a simple script to perform basic load testing on web applications. It us
 For the installations you need to first clone the repository.
 
 ```
-git clone ...
+git clone https://github.com/sebasrestrepom/load-test-module.git
 ```
 You must run the following command in the console
 ```
